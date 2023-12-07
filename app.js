@@ -24,4 +24,3 @@ function getJoke() {
 
 jokeButton.addEventListener('click', getJoke);
 document.addEventListener('DOMContentLoaded', getJoke);
-
