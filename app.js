@@ -1,6 +1,9 @@
 /**
  * @author Kevin Cioffi
  * 11/28/2023
+ * 
+ * A project that fetches developer jokes \
+ * from the chuck norris API.
  */
 
 const jokeButton = document.querySelector('button');
